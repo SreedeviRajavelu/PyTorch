@@ -1,4 +1,4 @@
-# PyTorch Models
+# PyTorch Neural Network Models
 Multivariate Time Series Classification using LSTM PyTorch
 
 Look for minimum validation error to prevent overfitting:
