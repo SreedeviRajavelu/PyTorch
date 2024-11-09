@@ -3,7 +3,7 @@ Multivariate Time Series Classification using LSTM PyTorch
 
 Look for minimum validation error to prevent overfitting:
 
-![image](https://github.com/user-attachments/assets/c0fb5ffd-e4ef-4ac1-af32-88166a1503f6)
+![image](https://github.com/user-attachments/assets/b54f3459-1258-4536-85f2-d89904e421d1)
 
 
 Epoch 241 of lstm_pytorch:
